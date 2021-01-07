@@ -1,0 +1,599 @@
+{
+    "code": 0,
+    "payload": {
+        "milletProduct": {
+            "skuId": "f55330210ee640eda28f46e896e6e0c5",
+            "priceGroupId": 9
+        },
+        "talentShowProduct": {
+            "skuId": "f4d7c348cc6f4de790293bb320f03cc4",
+            "robotSkuId": "9f8908648617416d8f2973903fcbdab8",
+            "robotCouponId": "135a7733fd0748999648dcc42e461168",
+            "specialSkuId": "de446f3f0431413c8950426da1018905"
+        },
+        "reason": {
+            "content": [
+                {
+                    "type": 1,
+                    "txt": "仅退款",
+                    "list": [
+                        {
+                            "id": 1,
+                            "txt": "商品信息填写错误"
+                        },
+                        {
+                            "id": 2,
+                            "txt": "商品降价"
+                        },
+                        {
+                            "id": 3,
+                            "txt": "地址信息填写错误"
+                        },
+                        {
+                            "id": 4,
+                            "txt": "不想要了"
+                        },
+                        {
+                            "id": 5,
+                            "txt": "发货时间问题"
+                        },
+                        {
+                            "id": 6,
+                            "txt": "选择购买其他同类商品"
+                        },
+                        {
+                            "id": 7,
+                            "txt": "需要使用优惠或秀豆重新购买"
+                        },
+                        {
+                            "id": 8,
+                            "txt": "其他"
+                        }
+                    ]
+                },
+                {
+                    "type": 2,
+                    "txt": "退货退款",
+                    "list": [
+                        {
+                            "id": 1,
+                            "txt": "商品降价"
+                        },
+                        {
+                            "id": 2,
+                            "txt": "商品与页面描述不符"
+                        },
+                        {
+                            "id": 3,
+                            "txt": "缺少件"
+                        },
+                        {
+                            "id": 4,
+                            "txt": "质量问题"
+                        },
+                        {
+                            "id": 5,
+                            "txt": "发错货"
+                        },
+                        {
+                            "id": 6,
+                            "txt": "商品损坏"
+                        },
+                        {
+                            "id": 7,
+                            "txt": "不想要了"
+                        },
+                        {
+                            "id": 8,
+                            "txt": "其他"
+                        }
+                    ]
+                }
+            ]
+        },
+        "myHelpDoc": {
+            "content": [
+                {
+                    "title": "Q1:如何成为秀域会员？",
+                    "answers": [
+                        "-在秀域商城中完成手机注册，即可成为基础会员；"
+                    ]
+                },
+                {
+                    "title": "Q2:秀豆有什么用？",
+                    "answers": [
+                        "-秀豆作为秀域商城第二货币，可以在购买商品过程中抵扣现金；"
+                    ]
+                },
+                {
+                    "title": "Q3:如何获得秀豆？",
+                    "answers": [
+                        "-在【资讯社区】内浏览/分享文章；",
+                        "-推荐好友购买【钜惠系列礼包】；"
+                    ]
+                },
+                {
+                    "title": "Q4:阅读了文章，为什么没有秀豆？",
+                    "answers": [
+                        "-阅读文章需超过 20 秒以上才可以获得秀豆；",
+                        "-分享文章获取秀豆仅限 1 次，多次分享只计 1 次有效；"
+                    ]
+                },
+                {
+                    "title": "Q5:我推荐好友购买了“钜惠礼包”，为什么我没有秀豆到账？",
+                    "answers": [
+                        "-请先确认您的好友是否为首次购买“钜惠礼包”系列，如果您的好友不是首次购买，您将不会有秀豆收益；",
+                        "-请再确认是否您的好友是否通过您分享的“钜惠礼包”海报进入商品详情页直接购买，如果不是或中途退出后通过其他方式进入“钜惠礼包”系列商品详情页，您的好友完成购买后您将不会获得秀豆收益；"
+                    ]
+                },
+                {
+                    "title": "Q6:我的好友购买了商品，为什么我没有秀豆到账？",
+                    "answers": [
+                        "-您的好友购买商品后，秀豆进入“预计收益”（在’秀分享-我的秀豆’内可查），当您的好友确认收货后，秀豆会从“预计收益”自动转入“可用秀豆”中；"
+                    ]
+                },
+                {
+                    "title": "Q7:为什么我购买的商品还没到货？",
+                    "answers": [
+                        "-商品是根据下单顺序 48 小时内依次发货，统一从成都发往全国，所在区域不同会影响物流时间，一般发货后 3-5 天即可到达；"
+                    ]
+                },
+                {
+                    "title": "Q8:购买的商品不想要了，怎么退货？",
+                    "answers": [
+                        "-“钜惠礼包”系列商品属于特价商品，一经出售非质量问题不予退换；",
+                        "-其他商品退/换货请致电 95026，告知客服寄回商品物流单号即可；"
+                    ]
+                },
+                {
+                    "title": "Q9:为什么会有冻结秀豆？怎么来的？如何解冻？",
+                    "answers": [
+                        "-粉丝等级用户A邀请粉丝等级用户B购买钜惠礼包后，A用户会获得对应对奖励秀豆，秀豆在冻结秀豆中，当A用户在3个月内升级为达人等级（购买钜惠礼包）后，冻结秀豆将自动转入可用秀豆；",
+                        "-达人等级用户A邀请下级达人用户B购买任意钻石礼包（金钻/蓝钻/粉钻），A用户将获得对应奖励秀豆，秀豆在冻结秀豆中，当A用户在 3 个月内升级为任意钻石会员等级后，冻结秀豆将自动转入可用秀豆；"
+                    ]
+                },
+                {
+                    "title": "Q10:如何从达人升级钻石会员？",
+                    "answers": [
+                        "-首页内点击“钻石礼包”，购买任意钻石礼包即可升级到对应等级；"
+                    ]
+                },
+                {
+                    "title": "Q11:为什么我无法购买钻石礼包（金钻/蓝钻/粉钻）？",
+                    "answers": [
+                        "-钻石礼包（金钻/蓝钻/粉钻）需达人会员以上等级才可以购买；",
+                        "-钻石会员在等级有效期前 9 个月内，无法购买当前等级和低等级的钻石礼包（例如，用户当前为蓝钻会员，在等级有效期前 9 个月内，无法购买蓝钻礼包和金钻礼包）。"
+                    ]
+                }
+            ]
+        },
+        "banner": {
+            "content": [
+              {
+                   "url": "https://bucket.ishowyu.com/mobile/banner/meituo.jpg",
+                   "jumpUrl": "/goods/detail?skuId=0f44fde9364f4790806be208d6cc9131",
+                   "startTime": 1609408800000,
+                   "endTime": 1612108799000
+              },
+                {
+                    "url": "https://bucket.ishowyu.com/mobile/banner/grease-bomb.jpg",
+                    "jumpUrl": "/invite/topic/grease-bomb",
+                    "startTime": 1601481600000,
+                    "endTime": 1605087675000
+                },
+                {
+                    "url": "https://bucket.ishowyu.com/mobile/banner/custom-underwear-banner1.jpg",
+                    "jumpUrl": "/project-page",
+                    "startTime": 1605087986000,
+                    "endTime": 1668159806000
+                },
+                {
+                    "url": "https://bucket.ishowyu.com/mobile/banner/99health.jpg",
+                    "jumpUrl": "/goods/detail?skuId=0f44fde9364f4790806be208d6cc9131"
+                },
+                {
+                    "url": "https://bucket.ishowyu.com/mobile/banner/oxyhydrogen-banner.jpg",
+                    "jumpUrl": "/oxyhydrogen"
+                }
+            ]
+        },
+        "showShareHelpDoc": "https://bucket.ishowyu.com/mobile/show-share/help-document.txt",
+        "articleRule": [
+            "  资讯社区每日奖励上限40个秀豆；",
+            "  资讯阅读每日奖励上限20个秀豆，每篇资讯首次阅读奖励5个秀豆；",
+            "  资讯分享每日奖励上限20个秀豆，每篇资讯首次分享奖励5个秀豆；",
+            "  当日在资讯社区获取秀豆已达到上限时，继续阅读/分享的文章不奖励秀豆，次日重新阅读/分享该文章可获得秀豆奖励。"
+        ],
+        "coupon": [
+            "7b5b3d3d05ab4d50a94c77623eb4261d"
+        ],
+        "drawRule": "1.健康美丽成长值 200 分以上每天 4 次免费抽奖机会；## 2.健康美丽成长值 100-200 分之间每天 3 次免费抽奖机会；## 3.健康美丽成长值 0-100 分之间每天 2 次免费抽奖机会；## 4.健康美丽成长值为0分的用户每天 1 次免费抽奖机会；## 5.每日分享账单到朋友圈，可增加 1 次抽奖机会；",
+        "hotGoodsOrderBy": [
+            "b5bade5a92dd4fb4bf95f90187b011b8",
+            "36daebfaadf64e018e3ce11f6890bffd",
+            "8aa24992078b4988b0f5debc29685954"
+        ],
+        "ncoVGoodsOrderBy": [
+            "e4dd1752c7d146e5b669577264bbd63f",
+            "ef477053724642d9a3c2ae4425ebcb8b",
+            "ec05165fa1b545f78bf6321120b4dff0",
+            "7e3a674b3ab3441ab474a5b1eabc8e0e",
+            "dd89df805ad911e9b6f000163e30431f"
+        ],
+        "donate": {
+            "enable": true,
+            "topicUrl": "http://bucket-showyu.oss-cn-beijing.aliyuncs.com/mobile/donate/donateBg.png",
+            "title": "抗击疫情，众志成城",
+            "desc": "武汉目前非常困难，需要捐赠防护服，需要捐防护服，需要捐赠防护服，需要捐赠防护服，需要捐赠防护。",
+            "projectInfo": [
+                {
+                    "type": "img",
+                    "url": "https://bucket.ishowyu.com/mobile/banner/diamond.jpg"
+                },
+                {
+                    "type": "text",
+                    "label": "项目介绍",
+                    "style": {
+                        "fontSize": "12px",
+                        "color": "#ccc",
+                        "fontWeight": "bold"
+                    }
+                },
+                {
+                    "type": "img",
+                    "url": "https://bucket.ishowyu.com/mobile/banner/diamond.jpg"
+                },
+                {
+                    "type": "img",
+                    "url": "https://bucket.ishowyu.com/mobile/banner/diamond.jpg"
+                },
+                {
+                    "type": "img",
+                    "url": "https://bucket.ishowyu.com/mobile/banner/diamond.jpg"
+                },
+                {
+                    "type": "img",
+                    "url": "https://bucket.ishowyu.com/mobile/banner/diamond.jpg"
+                },
+                {
+                    "type": "img",
+                    "url": "https://bucket.ishowyu.com/mobile/banner/diamond.jpg"
+                },
+                {
+                    "type": "img",
+                    "url": "https://bucket.ishowyu.com/mobile/banner/diamond.jpg"
+                }
+            ],
+            "processInfo": {
+                "type": "",
+                "url": ""
+            }
+        },
+        "childrenMasks": {
+            "skuIds": [
+                "5e7d974ff7a942bb96bf344271c5c911"
+            ],
+            "num": 10,
+            "confirm": {
+                "message": "您购买的数量小于10个，邮费需顺丰到付，确认是否继续购买？",
+                "title": null
+            }
+        },
+        "angelIntro": "https://bucket.ishowyu.com/mobile/show-share/angel-intro.txt",
+        "project399Agreement": "https://bucket.ishowyu.com/mobile/show-share/99-agreement.txt",
+        "greaseBombRule": [
+            "1. 参与资格：购买过轰脂仪3次卡且有效提取过至少1次，并提取时间超过当天24:00后即可参与分享活动。分享对象必须是2020年9月1日后注册且从未购买过轰脂仪项目的用户。",
+            "2. 原推荐的达人会员，只要推荐者满足参与资格，被推荐人从未购买过轰脂仪项目，首次购买且提取也会给原推荐的会员返券。",
+            "3. 推荐人如果是钻石会员的还会额外返1000秀豆。",
+            "4. 返券条件：分享对象必须是从未购买过轰脂仪项目且首次购买3次卡并有效提取。",
+            "5. 返券时间是有效提取延后一天。"
+        ],
+        "agentGroupTips": "https://bucket.ishowyu.com/mobile/show-share/agent/group-tips.json",
+        "agentTips": "https://bucket.ishowyu.com/mobile/show-share/agent.txt",
+        "quickEnter": [
+            {
+                "id": "d1bc3d155ad911e9b6f000163e30431f",
+                "name": "服务项目",
+                "iconName": "https://bucket.ishowyu.com/mobile/member/service.png",
+                "url": null,
+                "tag": null
+            },
+            {
+                "id": "d29aa09f5ad911e9b6f000163e30431f",
+                "name": "护肤产品",
+                "iconName": "https://bucket.ishowyu.com/mobile/member/skin.png",
+                "url": null,
+                "tag": null
+            },
+            {
+                "id": "0974e93a83b311e99cd77cd30aeb1466",
+                "name": "健康食品",
+                "iconName": "https://bucket.ishowyu.com/mobile/member/care.png",
+                "url": null,
+                "tag": null
+            },
+            {
+                "id": "0a538a1583b311e99cd77cd30aeb1466",
+                "name": "生活用品",
+                "iconName": "https://bucket.ishowyu.com/mobile/member/life.png",
+                "url": null,
+                "tag": null
+            },
+            {
+                "id": "quick-booking",
+                "name": "快速预约",
+                "iconName": "https://bucket.ishowyu.com/mobile/member/booking.png",
+                "url": "/project/list",
+                "tag": null
+            },
+            {
+                "id": "member-club",
+                "name": "会员俱乐部",
+                "iconName": "https://bucket.ishowyu.com/mobile/member/member.png",
+                "url": "/show-share/talent-show",
+                "tag": null,
+                "checkMemberLevel": true,
+                "hideStaff": true
+            },
+            {
+                "id": "article-center",
+                "name": "资讯社区",
+                "iconName": "https://bucket.ishowyu.com/mobile/member/article.png",
+                "url": "/article/list/showyu-article",
+                "tag": null
+            },
+            {
+                "id": "member-product-center",
+                "name": "配件专区",
+                "iconName": "https://bucket.ishowyu.com/mobile/member/parts.png",
+                "url": "/oxyhydrogen",
+                "tag": null
+            }
+        ],
+        "memberRight": [
+            {
+                "label": "会员专享价",
+                "subLabel": "购物奖励",
+                "code": "memberOnly",
+                "icon": "memberOnly",
+                "displayGroupTypes": [
+                    2
+                ],
+                "block": {
+                    "title": "钻石会员",
+                    "subTitle": "正价商品专享折扣、促销商品专享折扣",
+                    "contentList": [
+                        {
+                            "icon": "goldDiamond",
+                            "title": "金钻会员专享折扣介绍",
+                            "descriptions": [
+                                {
+                                    "text": "<p>享受秀域正价产品及服务<b>8.5</b>折;</p>"
+                                },
+                                {
+                                    "text": "<p>享受秀域促销产品及服务<b>9.8</b>折;</p>"
+                                }
+                            ]
+                        },
+                        {
+                            "icon": "blueDiamond",
+                            "title": "蓝钻会员专享折扣介绍",
+                            "descriptions": [
+                                {
+                                    "text": "<p>享受秀域正价产品及服务<b>8</b>折;</p>"
+                                },
+                                {
+                                    "text": "<p>享受秀域促销产品及服务<b>9.5</b>折;</p>"
+                                }
+                            ]
+                        },
+                        {
+                            "icon": "pinkDiamond",
+                            "title": "粉钻会员专享折扣介绍",
+                            "descriptions": [
+                                {
+                                    "text": "<p>享受秀域正价产品及服务<b>6.8</b>折;</p>"
+                                },
+                                {
+                                    "text": "<p>享受秀域促销产品及服务<b>9</b>折;</p>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "会员精选商品",
+                "subLabel": "优选商品",
+                "code": "preferredProducts",
+                "icon": "preferredProducts",
+                "displayGroupTypes": [
+                    0,
+                    1,
+                    2
+                ],
+                "block": {
+                    "title": "海量精选商品",
+                    "subTitle": "会员专属价购买",
+                    "contentList": [
+                        {
+                            "icon": "talent",
+                            "title": "权益介绍",
+                            "descriptions": [
+                                {
+                                    "text": "<p>享加入秀域会员俱乐部，即可尊享会员精选商品。</p>"
+                                },
+                                {
+                                    "text": "<span>点击前往</span>",
+                                    "isLink": true,
+                                    "path": "/goods/goods-list?from=member&name=会员精选商品专区"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "生日特别优惠",
+                "subLabel": "生日礼券",
+                "displayGroupTypes": [
+                    0,
+                    1,
+                    2
+                ],
+                "code": "birthday",
+                "icon": "birthday",
+                "block": {
+                    "title": "加入秀域会员俱乐部，生日专享优惠券",
+                    "contentList": [
+                        {
+                            "title": "优惠券介绍（示例）",
+                            "cards": [
+                                {
+                                    "type": "birthday",
+                                    "title": "生日顾客专享代金券",
+                                    "amount": "780",
+                                    "condition": "满0元使用",
+                                    "time": "自发放日起计算，有效期为1年",
+                                    "des": "该优惠券不可与秀豆同享"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "专享优惠券",
+                "subLabel": "",
+                "displayGroupTypes": [
+                    0,
+                    1,
+                    2
+                ],
+                "code": "onlyTickets",
+                "icon": "onlyTickets",
+                "block": {
+                    "title": "加入秀域会员俱乐部，即享专享优惠券",
+                    "contentList": [
+                        {
+                            "title": "优惠券介绍(示例)",
+                            "cards": [
+                                {
+                                    "type": "normal",
+                                    "title": "秀域线上商城单个商品均可使用（商品范围：服务项目、护肤产品、保健品、生活用品）",
+                                    "amount": "100",
+                                    "condition": "满120元使用",
+                                    "time": "自发放日起计算，有效期为1年",
+                                    "des": "该优惠券不可与秀豆同享",
+                                    "tip": "注：首次加入即获5张"
+                                },
+                                {
+                                    "type": "normal",
+                                    "title": "微信商城护肤产品1件5折",
+                                    "amount": "5折",
+                                    "condition": "满0元使用",
+                                    "time": "自发放日起计算，发放当月有效",
+                                    "des": "该优惠券不可与秀豆同享",
+                                    "tip": "注：每月发放1张"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "邀新得奖励",
+                "subLabel": "优惠券奖励",
+                "displayGroupTypes": [
+                    0,
+                    1,
+                    2
+                ],
+                "code": "inviteNew",
+                "icon": "inviteNew",
+                "block": {
+                    "title": "邀请好友加入秀域会员俱乐部",
+                    "subTitle": "可获秀豆奖励",
+                    "contentList": [
+                        {
+                            "title": "邀约方式",
+                            "descriptions": [
+                                {
+                                    "text": "<p>分享秀域任意商品、个人二维码海报、个人推荐码，邀请好友加入秀域会员俱乐部。</p>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "特价体验包",
+                "displayGroupTypes": [
+                    0,
+                    1,
+                    2
+                ],
+                "subLabel": "",
+                "code": "specialPrice",
+                "icon": "specialPrice",
+                "block": {
+                    "title": "会员体验权利礼包",
+                    "subTitle": "",
+                    "contentList": [
+                        {
+                            "icon": "",
+                            "title": "权益介绍",
+                            "descriptions": [
+                                {
+                                    "text": "<p>享加入秀域会员俱乐部，即可购买会员特价礼包。</p>"
+                                },
+                                {
+                                    "text": "<span>点击前往</span>",
+                                    "isLink": true,
+                                    "path": "/goods/detail?skuId=de446f3f0431413c8950426da1018905"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "保级规则",
+                "subLabel": "",
+                "displayGroupTypes": [
+                    2
+                ],
+                "code": "rules",
+                "icon": "rules",
+                "block": {
+                    "title": "钻石会员保级规则",
+                    "subTitle": "",
+                    "contentList": [
+                        {
+                            "icon": "",
+                            "title": "钻石会员保级条件",
+                            "descriptions": [
+                                {
+                                    "icon": true,
+                                    "text": "<p>钻石会员身份有效期内的12个月在秀域自用消费的金额达：<b>金钻8000元,蓝钻15000元,粉钻35000元</b>，会员身份自动续期12个月（含秀豆抵扣金额);</p>"
+                                },
+                                {
+                                    "icon": true,
+                                    "text": "先购买低等级会员礼包，可在3个月内购买升级礼包升级至更高等级，会员身份至购买升级礼包日期起自动续期12个月；"
+                                },
+                                {
+                                    "icon": true,
+                                    "text": "原会员身份到期前1个月内，可购买同级或更低级礼包，自动续期12个月；"
+                                },
+                                {
+                                    "icon": true,
+                                    "text": "满足多个保级条件，仅能增加1年有效期，不叠加。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
